@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="3D-l_PjvyGB-YuB4nd6p">
+    <mxGraphModel dx="1204" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s8jlazbZuIBEcTDd6jDX-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="90" width="80" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="s8jlazbZuIBEcTDd6jDX-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="" vertex="1">
+          <mxGeometry height="90" width="80" x="360" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="s8jlazbZuIBEcTDd6jDX-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="" vertex="1">
+          <mxGeometry height="90" width="80" x="560" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="s8jlazbZuIBEcTDd6jDX-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="Bronze" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="s8jlazbZuIBEcTDd6jDX-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;gradientColor=#b3b3b3;" value="Silver" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="s8jlazbZuIBEcTDd6jDX-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;gradientColor=#ffd966;" value="Gold" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="s8jlazbZuIBEcTDd6jDX-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=14;" value="Raw data&lt;div&gt;1:1 copy from the source&lt;/div&gt;&lt;div&gt;no transformations&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="167.5" x="116.25" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="s8jlazbZuIBEcTDd6jDX-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Clean data&lt;div&gt;Standards data types&lt;/div&gt;&lt;div&gt;No data modelling&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="135" x="332.5" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="s8jlazbZuIBEcTDd6jDX-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Business&lt;div&gt;Data Model&lt;/div&gt;&lt;div&gt;Star Schema&lt;/div&gt;&lt;div&gt;Aggregation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="540" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
